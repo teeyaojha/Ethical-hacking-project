@@ -1,1 +1,2 @@
 # Ethical-hacking-project
+This was an 8-week course, under which we learnt from the modules and performed real-life web-based hacking on the sample websites given to us by Internshala as part of their hacking lab. In the end, we were given a test and a problem statement in which we had to report the vulnerabilities of a website given to us and make a project report mentioning the damage that it could cause. After the completion, we were awarded a certificate.
